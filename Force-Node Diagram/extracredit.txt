@@ -1,0 +1,3 @@
+We made it so that the node's fill color corresponds to its kinetic energy.
+Fast-moving nodes are closer to orange in color, while stationary nodes are
+more blue.

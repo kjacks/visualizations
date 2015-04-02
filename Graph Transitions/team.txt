@@ -1,0 +1,14 @@
+Team Members: Alison Tai, Kirk Jackson, Matt Long
+
+The three of us worked together on setting up the initial 3 buttons and the 
+general structure of a2.pde. We implemented a single transition (line to bar)
+together. 
+
+Kirk implemented the stacked bar chart, theme river chart, their 
+transitions, and the bar to line chart. 
+
+Matt implemented the rose chart, rose chart transition, pie to bar transition,
+and bar to pie transition. 
+
+Ali implemented the pie chart, line to pie transition, pie to line transition, 
+and worked out the bugs in getitng the transitions to run smoothly. 

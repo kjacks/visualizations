@@ -1,0 +1,11 @@
+Alison Tai, Kirk Jackson, and Matt Long
+
+Alison worked the calculations for acceleration, velocity, and displacement.
+
+Kirk worked on the Coulomb's force calculations.
+
+Matt worked on the Hooke's law calculations.
+
+We all collectively worked on the program flow and data structures, the
+fancy color-changing algorithm, the force_middle to center the tree,
+and general debugging.

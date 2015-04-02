@@ -1,0 +1,2 @@
+HIGHLIGHT COLOR: The highlight color changes based on the level which you are
+zoomed in on.

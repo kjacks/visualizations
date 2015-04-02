@@ -1,0 +1,12 @@
+Team Members: Kirk Jackson, Matt Long, Alison Tai
+
+INPUT: To input a file, set the String file (in a1.pde) to the title of the
+file.
+
+Ali worked primarily with squarify algorithm. Matt and Kirk built the parser 
+and organized the hierarchal structure of the data. The three of us worked 
+together on everything else in the project - particularly putting the pieces
+together.
+
+Squarify Paper source: www.win.tue.nl/~vanwijk/stm.pdf
+
